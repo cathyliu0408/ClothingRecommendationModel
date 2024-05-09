@@ -7,6 +7,8 @@
 ## Overview
 Clothing Recommendation System leverages a ResNet-based deep learning model to provide a sophisticated content-based image retrieval system, tailored specifically for fashion e-commerce platforms. By analyzing clothing images to identify fabric types, styles, and patterns, the system offers precise recommendations that closely match user inquiries, thereby enhancing the online shopping experience through visually similar product suggestions.
 
+![Image](images/Design.png)
+
 ## Key Features
 - **Visual Similarity Recommendations:** Utilizes visual cues from clothing images to suggest similar items, enhancing the shopping experience.
 - **Deep Feature Analysis:** Employs deep learning to capture complex patterns in fabric textures, cuts, and styles.
