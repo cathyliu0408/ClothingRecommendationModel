@@ -57,7 +57,7 @@ The Clothing Recommendation was created to address the "new" trend of personaliz
 
 ## Results and Impact
 
-![Model]([Paste_link_here](https://github.com/cathyliu0408/ClothingRecommendationModel/blob/main/images/Outcomes.png))
+![Image](images/Outcomes.png)
 
 - **High Training Accuracy:** Achieved up to 98.81% accuracy, indicating strong learning capabilities.
 - **Color Integration Success:** Improved recommendation relevance by effectively incorporating color analysis.
